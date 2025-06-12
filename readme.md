@@ -1,3 +1,3 @@
 ## Hello world
 
-# hello from the master branch
+# hello from the feature branch
